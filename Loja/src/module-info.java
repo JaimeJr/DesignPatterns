@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jaime
- *
- */
-module Loja {
-}
